@@ -1,21 +1,14 @@
+
+
 ---
 
 # Welcome to your **School Club Management Platform**
-
-## Project info
-
-**URL**: [Live Project]()
 
 ## How can I edit this code?
 
 There are several ways to edit and contribute to this application:
 
-### 1. Use the Web Editor (Recommended)
-
-Simply visit the [Project Dashboard]() and start prompting/editing.
-Changes made here will be committed automatically to this repository.
-
-### 2. Work in your Preferred IDE
+### 1. Work in your Preferred IDE
 
 If you want to work locally with VS Code, WebStorm, or another IDE, you can clone this repo and push changes.
 Pushed changes will be reflected in the project.
